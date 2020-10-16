@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
 
-                <form action="ejercicio1.php" method="get">
+                <form action="./action/form.php" method="get">
                     <div class="form-group">
                         <label for="exampleInputEmail1">¿En que año naciste?</label>
                         <input type="number" class="form-control" id="inputFechaNacimiento" name="fechaNacimiento" placeholder="Introduce tu fecha de nacimiento">

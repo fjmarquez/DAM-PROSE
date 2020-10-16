@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
 
-                <form action="ejercicio1.php" method="post">
+                <form action="./action/form.php" method="post">
                     <div class="form-group">
                         <label for="exampleInputEmail1">¿Cuantos años tienes?</label>
                         <input type="number" class="form-control" id="inputEdad" name="edad" placeholder="Introduce tu edad">
