@@ -1,0 +1,19 @@
+
+.visible{
+    display: inline !important;
+}
+
+.invisible{
+    display: inline !important;
+}
+
+.ops{
+    position:fixed !important;
+    bottom:0px !important;
+}
+
+form{
+    height: 75%;
+    overflow: scroll;
+    background-color: ghostwhite;
+}
