@@ -9,5 +9,8 @@
 	<classpathentry kind="lib" path="C:/wamp64/www/PROSE/BitcoinToEuros/json-20200518.jar"/>
 	<classpathentry kind="lib" path="C:/wamp64/www/PROSE/BitcoinToEuros/commons-io-2.8.0.jar"/>
 	<classpathentry kind="lib" path="C:/wamp64/www/PROSE/BitcoinToEuros/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francisco J. Márquez/Downloads/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/wamp64/www/PROSE/Servicios Web/BitcoinToEuros/json-20200518.jar"/>
+	<classpathentry kind="lib" path="C:/wamp64/www/PROSE/Servicios Web/BitcoinToEuros/commons-io-2.8.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
