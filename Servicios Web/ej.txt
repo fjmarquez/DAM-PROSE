@@ -1,0 +1,6 @@
+4.- 
+
+La cabecera accept muestra '*/*' lo cual indica que acepta cualquier tipo de MIME.
+
+
+5
