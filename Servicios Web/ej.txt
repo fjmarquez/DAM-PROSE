@@ -3,4 +3,54 @@
 La cabecera accept muestra '*/*' lo cual indica que acepta cualquier tipo de MIME.
 
 
-5
+5.-
+
+Tendra una sola tabla, con 4 columnas (id, name, surname, age).
+
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Base de datos: `servicioprose`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `personas`
+--
+
+DROP TABLE IF EXISTS `personas`;
+CREATE TABLE IF NOT EXISTS `personas` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(130) COLLATE latin1_spanish_ci NOT NULL,
+  `surname` varchar(130) COLLATE latin1_spanish_ci NOT NULL,
+  `age` int(3) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=6 DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
+
+--
+-- Volcado de datos para la tabla `personas`
+--
+
+INSERT INTO `personas` (`id`, `name`, `surname`, `age`) VALUES
+(1, 'Raul', 'Sanchez', 20),
+(2, 'Fernando', 'Galiana', 20),
+(3, 'Fernando', 'Galiana', 20),
+(4, 'Leo', 'Acal', 20),
+(5, 'Miguel Angel', 'Casado', 20);
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+6.-

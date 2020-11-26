@@ -4,8 +4,7 @@
 
 //Otro uso de ejemplo de una petición al servicio sería: GET .../ejemploRestSencillo/service/ejemploSencilloRESTful.php/personas/Poomfleir89
 
-//Importamos la clase PersonDAOMock.php, la cual implementa JsonSerializable
-require_once "../class/PersonDAOMock.php";
+require_once "../class/PersonDAO.php";
 
 $method = $_SERVER['REQUEST_METHOD'];//Obtenemos el metodo de la peticion
 $acceptFormat = $_SERVER['HTTP_ACCEPT'];//Vemos que formatos acepta como respuesta
@@ -15,7 +14,7 @@ $url_elements = explode('/', $path_info);//Vemos los elemetos de la url, para ve
 if (isMethodGet($method) && acceptFormatJson($acceptFormat) && isRequestForPersons($url_elements)) {
     header('Content-Type: application/json');//La respuesta es un json
     $result =null;//Inicializamos lo que vamos a mostrar
-    $dao=new PersonDAOMock();
+    $dao=new PersonDAO();
     if(isRequestForPersonsWithId($url_elements)){//Si la petición contiene un id en su path
         $id=$url_elements[2];
         $result=json_encode($dao->getPersonWithId($id));
