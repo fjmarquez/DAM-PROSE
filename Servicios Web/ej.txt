@@ -8,15 +8,7 @@ La cabecera accept muestra '*/*' lo cual indica que acepta cualquier tipo de MIM
 Tendra una sola tabla, con 4 columnas (id, name, surname, age).
 
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-START TRANSACTION;
-SET time_zone = "+00:00";
 
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
 
 --
 -- Base de datos: `servicioprose`
@@ -42,15 +34,10 @@ CREATE TABLE IF NOT EXISTS `personas` (
 --
 
 INSERT INTO `personas` (`id`, `name`, `surname`, `age`) VALUES
-(1, 'Raul', 'Sanchez', 20),
-(2, 'Fernando', 'Galiana', 20),
-(3, 'Fernando', 'Galiana', 20),
-(4, 'Leo', 'Acal', 20),
-(5, 'Miguel Angel', 'Casado', 20);
+(1, 'Raul', 'Prueba', 20),
+(2, 'Fernando', 'Prueba', 20),
+(3, 'Leo', 'Prueba', 20),
+(4, 'Miguel Angel', 'Prueba', 20);
 COMMIT;
-
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
 6.-
