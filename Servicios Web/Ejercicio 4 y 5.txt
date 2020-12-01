@@ -40,4 +40,3 @@ INSERT INTO `personas` (`id`, `name`, `surname`, `age`) VALUES
 (4, 'Miguel Angel', 'Prueba', 20);
 COMMIT;
 
-6.-
