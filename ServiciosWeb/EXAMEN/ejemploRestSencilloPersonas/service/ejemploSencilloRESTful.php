@@ -6,6 +6,8 @@
 
 require_once "../class/PersonDAO.php";
 
+
+
 $method = $_SERVER['REQUEST_METHOD'];//Obtenemos el metodo de la peticion
 $acceptFormat = $_SERVER['HTTP_ACCEPT'];//Vemos que formatos acepta como respuesta
 $path_info = getpathInfo();//Obtenemos el camino de la petición

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a613f001-d25a-4759-9c90-a7b76f0dd306" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella/action/signIn.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella/action/signIn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella/page/paginaProductos.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella/page/paginaProductos.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella" />
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="10000" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="ed641916-ef62-460c-9e35-1af5f1de7c86" name="Vagrant" port="8080" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/../ProyectoAbrahamMarcos" remote-root="/vagrant/ProyectoAbrahamMarcos" />
+          <mapping local-root="$PROJECT_DIR$/../ProyectoAlejandroSegura" remote-root="/vagrant/ProyectoAlejandroSegura" />
+          <mapping local-root="$PROJECT_DIR$/../ProyectoAmadorMunoz" remote-root="/vagrant/ProyectoAmadorMunoz" />
+          <mapping local-root="$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella" remote-root="/vagrant/ProyectoFranciscoJavierAvilesJavierHerbella" />
+          <mapping local-root="$PROJECT_DIR$/../ProyectoJaimeAlejandro" remote-root="/vagrant/ProyectoJaimeAlejandro" />
+          <mapping local-root="$PROJECT_DIR$/../ProyectoJoseVahagn" remote-root="/vagrant/ProyectoJoseVahagn" />
+          <mapping local-root="$PROJECT_DIR$" remote-root="/vagrant/ejemploRestSencillo" />
+          <mapping local-root="$PROJECT_DIR$/../pruebas" remote-root="/vagrant/pruebas" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="ProjectId" id="1jy62wEskFYWv9nxpH53EjxQz6A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Raul\Desktop\Ejemplo 5\ejemploRestSencillo\class" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Raul\Desktop\Ejemplo 5\ProyectoJesusJavier\img" />
+      <recent name="C:\Users\Raul\Desktop\Ejemplo 5\ejemploRestSencillo\Service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Vagrant" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="FILTER" server_name="Vagrant" session_id="PHPSTORM">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a613f001-d25a-4759-9c90-a7b76f0dd306" name="Default Changelist" comment="" />
+      <created>1604763780209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604763780209</updated>
+      <workItem from="1604763781232" duration="5599000" />
+      <workItem from="1604858740191" duration="2713000" />
+      <workItem from="1604874728190" duration="946000" />
+      <workItem from="1605002987370" duration="2617000" />
+      <workItem from="1605180608032" duration="245000" />
+      <workItem from="1605463746577" duration="1341000" />
+      <workItem from="1605465100248" duration="7468000" />
+      <workItem from="1605564787457" duration="627000" />
+      <workItem from="1605961183147" duration="15490000" />
+      <workItem from="1606035972420" duration="20237000" />
+      <workItem from="1606146700744" duration="2464000" />
+      <workItem from="1606210122332" duration="796000" />
+      <workItem from="1606317229807" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="120" key="#Servers" timestamp="1606045089702">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="392" y="120" key="#Servers/0.0.1536.824@0.0.1536.824" timestamp="1606045089702" />
+    <state x="225" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606045093178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606045093178" />
+    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606046208484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1606046208484" />
+    <state width="484" height="466" key="DebuggerActiveHint" timestamp="1606050685545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="484" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1606050685545" />
+    <state x="613" y="148" key="FileChooserDialogImpl" timestamp="1606317452342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="613" y="148" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606317452342" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.1.bottom" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.1.center" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.1.left" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.1.right" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.2.bottom" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.2.center" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.2.left" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state width="1493" height="211" key="GridCell.Tab.2.right" timestamp="1606071633776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1606071633776" />
+    <state x="626" y="138" key="NewPhpClassDialog" timestamp="1606046708884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="626" y="138" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1606046708884" />
+    <state x="668" y="317" key="NewPhpFileDialog" timestamp="1605003406468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="317" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1605003406468" />
+    <state x="422" y="70" key="SettingsEditor" timestamp="1604765700615">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="422" y="70" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604765700615" />
+    <state x="324" y="23" width="636" height="801" key="find.popup" timestamp="1606060189177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="324" y="23" width="636" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1606060189177" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/service/ejemploSencilloRESTful.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/service/ejemploSencilloRESTful.php</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../pruebas/action/Action_page.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../pruebas/action/Action_page.php</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../pruebas/action/Action_page.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../tienda/ProyectoAmadorMunoz/index.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../tienda/ProyectoAmadorMunoz/index.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../tienda/ProyectoJoseVahagn/action/login.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella/action/productoCompleto.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella/action/insertValoracion.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella/action/modificarProducto.php</url>
+          <line>28</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella/action/modificarProducto.php</url>
+          <line>38</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoFranciscoJavierAvilesJavierHerbella/action/signUp.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoJaimeAlejandro/index.php</url>
+          <line>5</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoJaimeAlejandro/index.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoJoseVahagn/action/login.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoJoseVahagn/action/product_edit.php</url>
+          <line>5</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoAlejandroSegura/class/DataAccess/Objecto.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoAlejandroSegura/class/DataAccess/Objecto.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoAlejandroSegura/class/DataAccess/UsuarioDAO.php</url>
+          <line>18</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoAlejandroSegura/controller/loginController.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoAlejandroSegura/page/productListView.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../ProyectoAlejandroSegura/controller/productListController.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="signIn.php">
+        <watch expression="$_SESSION[&quot;admin&quot;]" language="PHP" />
+      </configuration>
+      <configuration name="signUp.php">
+        <watch expression="$sql" language="PHP" />
+      </configuration>
+      <configuration name="index.php">
+        <watch expression="$url_elements[2] !== &quot;&quot;" language="PHP" />
+        <watch expression="$url_elements[2]" language="PHP" />
+        <watch expression="isset($url_elements)" language="PHP" />
+        <watch expression="isset($url_elements[2])" language="PHP" />
+        <watch expression="$GLOBALS['IDE_EVAL_CACHE']['c90fc021-3017-4210-a225-f56df2544b37']" />
+      </configuration>
+      <configuration name="loginController.php">
+        <watch expression="this-&gt;connection-&gt;query($sql)" language="PHP" />
+        <watch expression="$this-&gt;connection-&gt;query($sql)" language="PHP" />
+      </configuration>
+      <configuration name="product_edit.php">
+        <watch expression="isset($_POST['name']) &amp;&amp; isset($_POST[&quot;price&quot;]) &amp;&amp; isset($_POST[&quot;brand&quot;]) &amp;&amp; $_POST['id'] != &quot;&quot;" language="PHP" />
+        <watch expression="$_FILES['imageUpload']" language="PHP" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
