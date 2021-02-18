@@ -1,0 +1,5 @@
+No sabia exactamente como realizar las pruebas pertinentes para responder a la ultima parte del ejercicio 4, donde preguntabas:
+
+¿A partir de qué tamaño de la array empieza a ser más eficiente el método que utiliza hilos?
+¿A partir de qué tamaño de la array los métodos tardan más de 30 minutos en procesar la array?
+

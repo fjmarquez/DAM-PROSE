@@ -7,9 +7,11 @@ public class Main {
 		
 		Hola hola = new Hola();
 		Adios adios = new Adios();
+		
 		Thread hiloHola = new Thread(hola);
 		Thread hiloAdios = new Thread(adios);
 		
+		//Iniciamos ambos hilos
 		hiloHola.start();
 		hiloAdios.start();
 		

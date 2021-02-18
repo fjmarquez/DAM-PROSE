@@ -11,6 +11,7 @@ public class Main {
 		Lectura lectura = new Lectura();
 		Thread hiloLectura = new Thread(lectura);
 		
+		//Iniciamos los hilos definidos
 		hiloLectura.start();
 		hiloNumeros.start();
 		
