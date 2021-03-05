@@ -1,0 +1,77 @@
+package Entidades;
+
+public class TestWallet {
+	
+	public void test1() {
+		
+		//Instancia de Wallet con contraseña por defecto y un set al balance de 1000.0
+		Wallet carteraLeo = new Wallet();
+		carteraLeo.setBalance(1000.0);
+		
+		//Instancia de Wallet con contraseña por defecto y un set al balance de 1000.0
+		Wallet carteraFernando = new Wallet();
+		carteraFernando.setBalance(1000.0);
+		
+		//Instancia de Wallet con contraseña y balance por defecto
+		Wallet carteraMiguel = new Wallet();
+		
+		final String PASSWORD_GENERICA = "Nervion";
+		
+		Object monitor = new Object();
+		
+		//Tranferira el dinero de carteraLeo a carteraMiguel, de uno en uno
+		Thread h1 = new Thread(() -> {
+			
+			while(true) {
+				
+				for(int i = 0; i <= 1000; i++) {
+					
+					synchronized(monitor) {
+						
+						carteraLeo.transferTo(carteraMiguel, PASSWORD_GENERICA, 1);
+						System.out.println("leo");
+					}
+					
+				}
+				
+			}
+			
+		});
+		
+		//Transferira el dinero de carteraFernando a carteraMiguel igual que el anterior hilo
+		Thread h2 = new Thread(() -> {
+			
+			while(true) {
+				
+				for(int i = 0; i <= 1000; i++) {
+					
+					synchronized(monitor) {
+						
+						carteraFernando.transferTo(carteraMiguel, PASSWORD_GENERICA, 1);
+						System.out.println("fernando");
+					}
+					
+				}
+				
+			}
+			
+		});
+		
+		h1.start();
+		h2.start();
+		
+	}
+	
+	public void test2() {
+			
+			
+			
+	}
+	
+	public void test3() {
+		
+		
+		
+	}
+
+}
